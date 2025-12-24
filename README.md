@@ -1,7 +1,3 @@
-Thanks for sharing the React frontend code! Based on this, I’ll update the README to include information about the frontend and how to use the entire system. Here’s an updated version of the README:
-
----
-
 # AI Image Analyzer
 
 ## Description
