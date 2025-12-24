@@ -1,7 +1,3 @@
-Thanks for sharing the React frontend code! Based on this, I’ll update the README to include information about the frontend and how to use the entire system. Here’s an updated version of the README:
-
----
-
 # AI Image Analyzer
 
 ## Description
@@ -155,7 +151,3 @@ AI-IMAGE-ANALYZER/
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push the changes to your fork (`git push origin feature-name`).
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
